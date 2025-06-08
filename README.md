@@ -1,6 +1,6 @@
 # presidential_elections_poland2025
 
-The program uses CSV files downloaded from the official website of the PKW - Państwowa Komisja Wyborcza (the State Electoral Commission of Poland), containing data on votes cast for Rafał Trzaskowski and Karol Nawrocki in both the first and second rounds of the 2025 Polish presidential election.
+[ENG] The program uses CSV files downloaded from the official website of the PKW - Państwowa Komisja Wyborcza (the State Electoral Commission of Poland), containing data on votes cast for Rafał Trzaskowski and Karol Nawrocki in both the first and second rounds of the 2025 Polish presidential election.
 
 The results are compared on a single chart to highlight potential anomalies, which may indicate accidental or intentional swapping of votes between the two candidates - either due to human error or an attempt to manipulate the results by a given electoral commission (obwodowa komisja wyborcza).
 
@@ -8,7 +8,7 @@ The X-axis represents the percentage of votes for Nawrocki relative to Trzaskows
 
 Additionally, the program includes comments in Polish to help users understand its structure and logic more easily.
 
-Program wykorzystuje pliki CSV pobrane z oficjalnej strony PKW (Państwowa Komisja Wyborcza), zawierające informacje o oddanych głosach na Rafała Trzaskowskiego oraz Karola Nawrockiego w pierwszej i drugiej turze wyborów prezydenckich w Polsce w 2025 roku.
+[PL] Program wykorzystuje pliki CSV pobrane z oficjalnej strony PKW (Państwowa Komisja Wyborcza), zawierające informacje o oddanych głosach na Rafała Trzaskowskiego oraz Karola Nawrockiego w pierwszej i drugiej turze wyborów prezydenckich w Polsce w 2025 roku.
 
 Wyniki porównywane są na jednym wykresie, aby pokazać ewentualne anomalie, które mogą wskazywać na przypadkowe lub celowe zamienienie głosów między kandydatami - przez pomyłkę lub próbę manipulacji wynikiem przez daną obwodową komisję wyborczą.
 
